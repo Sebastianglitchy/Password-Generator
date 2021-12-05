@@ -1,0 +1,1 @@
+To run the password generator, you have to open the terminal, type py then add the path to the py file then it will give you the result.
